@@ -1,0 +1,7 @@
+python-telegram-bot==20.6
+ccxt==4.1.76
+pandas==2.1.1
+pandas-ta==0.3.14b0
+flask==3.0.0
+numpy==1.26.0
+schedule==1.2.1
